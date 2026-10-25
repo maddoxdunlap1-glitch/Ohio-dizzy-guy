@@ -1,0 +1,11 @@
+{
+ "v": 2,
+ "teamId": "c038cd5715b1e1189cf6478b",
+ "hostId": "d480f9560fdffc9d",
+ "hostSignPub": "mZ73GB71lLhdRdqykMDsI36UJXRs4C6Ree810niPTBU",
+ "joinSalt": "WjLji6j7J/GURz63OhItGbCAfgzAluqcMbmE1w3PipI=",
+ "codeExpires": 1792983927962,
+ "created": 1792897527962,
+ "app": "tandem",
+ "sig": "G5Hnw6vGc7Ue2vs+mj4CVh+mhc3HmTyfv+nTYnIGZ26ZjDjbJfOGk+3i+xteDzcKhEX77y8gmtmJI7tznwnuCQ=="
+}
